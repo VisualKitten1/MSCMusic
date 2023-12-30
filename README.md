@@ -1,7 +1,7 @@
 # MSCMusic
 MSCMusic - Free and easy way to change your My Summer Car CD soundtracks in the snap of a finger.
 
-# Requirements
+## Requirements
 - OS: Windows 7/8/8.1/10/11
 - CPU: Something that isn't a potato
 
